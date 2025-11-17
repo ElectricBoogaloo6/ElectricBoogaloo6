@@ -1,16 +1,17 @@
-## Hi there 👋
+## Name: Konstantin
 
-<!--
-**ElectricBoogaloo6/ElectricBoogaloo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Human-Robot Interaction researcher (MSc AI, VU Amsterdam) with a solid academic foundation in AI, robotics, and machine learning. Proficient in Python programming, reinforcement learning and NLP, with experience in computational modeling and model adaptation. 
 
-Here are some ideas to get you started:
+### Publications and research: 
+*“Guide Me Through the Unexpected: Investigating How Deviation From Expectation Affects Human Teaching and Robot Learning”* – MSc thesis, VU Amsterdam.
+Link: https://ieeexplore.ieee.org/document/11217772
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Audio-Visual Speech Recognition for Human-Robot Interaction: a Feasibility Study* - VU Amsterdam project. 
+Link: https://ieeexplore.ieee.org/abstract/document/10731139
+
+### Projects:
+
+
+### Contact:
+Email: `20081208@mail.wit.ie`  
+LinkedIn: https://www.linkedin.com/in/konstantin-mihhailov-693703240/
